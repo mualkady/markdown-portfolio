@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of ice cream](https://www.pamperedchef.com/iceberg/com/recipe/1287045-lg.jpg)
